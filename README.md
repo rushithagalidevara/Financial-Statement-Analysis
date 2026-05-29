@@ -25,4 +25,4 @@ Performed financial statement and ratio analysis to evaluate company performance
 ## Files Included
 | File Name | Description |
 |---|---|
-| Rushitha_Galidevara_FSI_Assignment.xlsx | Financial statement analysis and calculations |
+|FSI.xlsx | Financial statement analysis and calculations |
